@@ -1,0 +1,1 @@
+export { vuexMixin } from './vuexMixin'
