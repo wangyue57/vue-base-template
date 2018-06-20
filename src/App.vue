@@ -6,10 +6,23 @@
 
 <script>
   import 'normalize.css'
+
   export default {
     name: 'App'
   }
 </script>
+
+{{#vuex}}
+启用vuex
+{{/vuex}}
+
+{{#axios}}
+axios
+{{/axios}}
+
+{{#router}}
+启用router
+{{/router}}
 
 <style>
   #app {
